@@ -5,6 +5,8 @@ An opinionated list of awesome osu! resources for every part of the game and com
 ## Contents
 
 - [Official](#official)
+  - [Open source](#open-source)
+  - [For developers](#for-developers)
 - [Communities](#communities)
 - [Tools](#tools)
 - [Alternative clients](#alternative-clients)
