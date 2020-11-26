@@ -2,6 +2,8 @@
 
 An opinionated list of awesome osu! resources for every part of the game and community. Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome) and [osu-translate-zh/awesome-osu](https://github.com/osu-translate-zh/awesome-osu).
 
+This is still in its infancy. Anyone can contribute!
+
 ## Contents
 
 - [Official](#official)
