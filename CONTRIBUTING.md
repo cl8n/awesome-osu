@@ -1,7 +1,3 @@
-# Contributing to the list
-
-Anyone can contribute, but this is an opinionated list, so I may not accept all contributions as-is.
-
 ## What belongs
 
 Any osu!-related project, except:
