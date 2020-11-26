@@ -50,13 +50,13 @@ This is still in its infancy. Anyone can contribute!
 
 - [osu!dev](https://discord.gg/ppy): Official osu! development server
 - [osu!](https://discord.gg/0Vxo9AsejDkGlk3H): All-purpose kind-of-official osu! server
-- [osu! Medal Hunters](https://discord.gg/8qpNTs6)
+- [osu! Medal Hunters](https://discord.gg/8qpNTs6): Hub for medal and achievement farmers
 - [Aiess Project](https://discord.gg/2XV5dcW): Realtime feeds for osu! news, mapping events, and usergroup changes
-- [osu! storyboarder banquet](https://discord.gg/B8NX7YW)
+- [osu! storyboarder banquet](https://discord.gg/B8NX7YW): Hub for everything about storyboarding
 - [osu!taiko Mapping and Modding Hub](https://discord.gg/8RJBXe8)
 - [osu!catch Modding and Mapping Hub](https://discord.gg/ZuxFc4q)
 - [osu!mania Mapping & Modding Hub](https://discord.gg/FqbDdYN)
-- [Mapset Management Server](https://discord.gg/8BquKaS): "All about modding and collaboration"
+- [Mapset Management Server](https://discord.gg/8BquKaS): Modding discussion and queues
 - [skinship](https://discord.gg/AZ79xJb): Hub for everything about skinning
 
 ### Reddit
@@ -103,4 +103,4 @@ This is still in its infancy. Anyone can contribute!
 
 - [McOsu](https://store.steampowered.com/app/607260/McOsu/): Practice client with a lot of options and customizability. Includes experimental mods and a VR mode
 - [osu!archive](https://archive.osu.hubza.co.uk): Archive of old official clients
-- [opsu!](https://itdelatrisu.github.io/opsu/): Unofficial client with similar design to official ones
+- [opsu!](https://itdelatrisu.github.io/opsu/): Cross-platform Java client with similar design to official clients
