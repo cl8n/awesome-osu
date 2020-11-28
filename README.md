@@ -97,6 +97,8 @@ This is still in its infancy. Anyone can contribute!
 
 ## Skinning
 
+- [skinship tutorial page](https://tutorial.skinship.xyz/tutorial/introduction)
+- [skinship resources page](https://tutorial.skinship.xyz/resources)
 - [osuskinner](https://osuskinner.com/): Online skin builder
 
 ## Alternative clients
