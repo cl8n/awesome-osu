@@ -104,5 +104,6 @@ This is still in its infancy. Anyone can contribute!
 ## Alternative clients
 
 - [McOsu](https://store.steampowered.com/app/607260/McOsu/): Practice client with a lot of options and customizability. Includes experimental mods and a VR mode
-- [osu!archive](https://archive.osu.hubza.co.uk): Archive of old official clients
+- [osu!droid](http://ops.dgsrz.com/): Client and leaderboards for Android
 - [opsu!](https://itdelatrisu.github.io/opsu/): Cross-platform Java client with similar design to official clients
+- [osu!archive](https://archive.osu.hubza.co.uk): Archive of old official clients
