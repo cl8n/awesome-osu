@@ -13,12 +13,15 @@ This is still in its infancy. Anyone can contribute!
   - [Discord](#discord)
   - [Reddit](#reddit)
 - [Gameplay](#gameplay)
-  - [Livestreaming](#livestreaming)
+  - [Performance points](#performance-points)
+  - [Video and livestreaming](#video-and-livestreaming)
+- [Profile customization](#profile-customization)
 - [Beatmapping and modding](#beatmapping-and-modding)
   - [Storyboarding](#storyboarding)
   - [Audio](#audio)
 - [Skinning](#skinning)
 - [Alternative clients](#alternative-clients)
+- [For developers](#for-developers)
 
 ---
 
@@ -30,10 +33,11 @@ This is still in its infancy. Anyone can contribute!
 
 ### Open source
 
-- [osu](https://github.com/ppy/osu) (lazer)
-- [osu-web](https://github.com/ppy/osu-web)
-- [osu-wiki](https://github.com/ppy/osu-wiki)
-- [osu-framework](https://github.com/ppy/osu-framework)
+- [ppy GitHub organization](https://github.com/ppy)
+  - [osu](https://github.com/ppy/osu) (lazer)
+  - [osu-web](https://github.com/ppy/osu-web)
+  - [osu-wiki](https://github.com/ppy/osu-wiki)
+  - [osu-framework](https://github.com/ppy/osu-framework)
 
 ### For developers
 
@@ -69,20 +73,42 @@ This is still in its infancy. Anyone can contribute!
 ## Gameplay
 
 - [osu!search](https://osusearch.com/): Advanced search engine for beatmaps
-- [ezpp!](https://github.com/oamaok/ezpp): Browser extension to calculate pp
 - [CollectionManager](https://github.com/Piotrekol/CollectionManager): Tools for editing and creating beatmap collections
-- [osu!Skills](http://osuskills.com/): Player performance rating split into skills
+- [osekai medals](https://osekai.net/medals/): Information about how to get every medal and how difficult they are
+- [osekai rankings](https://osekai.net/rankings/): Special leaderboards about medals, mappers, badges, and more
+- [OpenTabletDriver](https://github.com/InfinityGhost/OpenTabletDriver): Cross-platform configurable tablet driver
+- [osuplus](https://github.com/limjeck/osuplus): Miscellaneous addons for the osu! website
+- [osu!chan](https://osuchan.syrin.me/): Configurable community leaderboards
+- [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer): Visual analysis of misses in replays
+- [osu!ReplayAnalyzer](https://github.com/firedigger/osuReplayAnalyzer): CLI to detect possible cheating in replays
 
-### Livestreaming
+### Performance points
 
+- [Tillerino](https://github.com/Tillerino/Tillerinobot/wiki): IRC bot to get beatmap recommendations
+  - [ppaddict](https://ppaddict.tillerino.org/): Web frontend for Tillerino
+- [ezpp!](https://github.com/oamaok/ezpp): Browser extension to calculate performance points
+- [osu-pps](https://osu-pps.com/#/osu/maps): Overweighted beatmaps tracker
+- [osu!track](https://ameobea.me/osutrack/): Historical view of best plays and user statistics
+- [osu!Skills](http://osuskills.com/): Unofficial player performance rating split into skills
+
+### Video and livestreaming
+
+- [osr2mp4](https://github.com/uyitroa/osr2mp4-app): Converts replay files to video
 - [StreamCompanion](https://github.com/Piotrekol/StreamCompanion): Customizable stream overlay with beatmap and gameplay data
+- [osukps](https://github.com/yugecin/osukps): Key states and keys-per-second overlay
+- [bongocat-osu](https://github.com/kuroni/bongocat-osu): "Bongo Cat" overlay imitating an osu! liveplay in real time
+
+## Profile customization
+
+- [Banner link adder](https://www.osustuff.org/banner-link-adder): Splits banner images and generates BBCode to link parts separately
 
 ## Beatmapping and modding
 
 - [Mappers' Guild](https://mappersguild.com/): MMO-style guild system for encouraging mapping of featured artists
 - [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier): Successor to AiMod, AIBat, and Modding Assistant
-- [Mapping Tools](https://mappingtools.seira.moe/)
+- [Mapping Tools](https://mappingtools.seira.moe/): Miscellaneous tools to create and clean beatmaps
 - [Ranking Criteria forum](https://osu.ppy.sh/community/forums/87): Proposals and discussions about RC
+- [osumapper](https://github.com/kotritrona/osumapper): Automatic mapping tool using TensorFlow deep learning
 
 ### Storyboarding
 
@@ -104,6 +130,18 @@ This is still in its infancy. Anyone can contribute!
 ## Alternative clients
 
 - [McOsu](https://store.steampowered.com/app/607260/McOsu/): Practice client with a lot of options and customizability. Includes experimental mods and a VR mode
+- [danser-go](https://github.com/Wieku/danser-go): Visualizer client for fancy effects
+- [osugame.online / webosu](http://osugame.online/): osu! for your browser
 - [osu!droid](http://ops.dgsrz.com/): Client and leaderboards for Android
 - [opsu!](https://itdelatrisu.github.io/opsu/): Cross-platform Java client with similar design to official clients
 - [osu!archive](https://archive.osu.hubza.co.uk): Archive of old official clients
+
+## For developers
+
+- [oppai-ng](https://github.com/Francesco149/oppai-ng) (C): Difficulty and performance points calculator
+- [node-osu](https://github.com/brussell98/node-osu) (NodeJS): osu! API v1 library
+- [gosumemory](https://github.com/l3lackShark/gosumemory) (WebSocket): Cross-platform osu! memory reader
+- [OsuParsers](https://github.com/mrflashstudio/OsuParsers) (C#): Parses osu! files
+- [ProcessMemoryDataFinder](https://github.com/Piotrekol/ProcessMemoryDataFinder) (C#): Finds and reads data from Windows processes, with osu! as an example
+- [osrparse](https://github.com/kszlim/osu-replay-parser) (Python): Parses replays
+- [osu-strain](https://github.com/jamuwu/osu-strain) (Python): Gets chunk strain values for a beatmap
