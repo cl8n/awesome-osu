@@ -21,7 +21,7 @@ This is still in its infancy. Anyone can contribute!
   - [Audio](#audio)
 - [Skinning](#skinning)
 - [Alternative clients](#alternative-clients)
-- [For developers](#for-developers)
+- [For developers](#for-developers-1)
 
 ---
 
