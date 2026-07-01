@@ -2,7 +2,10 @@
 
 An opinionated list of awesome osu! resources for every part of the game and community. Inspired by [sindresorhus/awesome](https://github.com/sindresorhus/awesome) and [osu-translate-zh/awesome-osu](https://github.com/osu-translate-zh/awesome-osu).
 
-This is still in its infancy. Anyone can contribute!
+> [!NOTE]
+> As of time of archiving, this project has already been stale for some years, and never really got past its early stage in the first place.
+>
+> For more updated attempts at a similar directory of osu! projects, I recommend checking services like <https://resources.osucord.moe/> and <https://tools.osuck.net/>, or using a search engine to find more.
 
 ## Contents
 
